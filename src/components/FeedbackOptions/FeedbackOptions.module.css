@@ -1,0 +1,10 @@
+* {
+	margin: 0;
+	font-size: 40px;
+}
+
+.button {
+	background-color: yellow;
+	border-radius: 10px;
+	margin-right: 20px;
+}
